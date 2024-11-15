@@ -123,8 +123,7 @@ Have creative input or concepts for the project? Share them! Open an issue or st
 
 
 
-1. Ensure your changes align with the project’s [CODE_OF_CONDUCT.md]Code
- of Conduct and [STYLE_GUIDE.md]Style Guide.
+1. Ensure your changes align with the project’s [CODE_OF_CONDUCT.md]
 
 2. Write clear, concise commit messages.
 
