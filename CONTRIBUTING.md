@@ -58,7 +58,7 @@ Submit a pull request (PR) with a detailed explanation of the fix.
 
 
 
-## 📚 Improving Documentation
+### 📚 Improving Documentation
 
 
 
@@ -79,7 +79,7 @@ Submit documentation updates through a PR with “Docs:” in the title.
 
 
 
-## 🚀 Suggesting Enhancements
+### 🚀 Suggesting Enhancements
 
 
 
@@ -107,7 +107,7 @@ We’ll review your suggestion and discuss implementation details.
 
 
 
-## 💡 Sharing Ideas
+### 💡 Sharing Ideas
 
 
 
@@ -116,7 +116,7 @@ Have creative input or concepts for the project? Share them! Open an issue or st
 
 
 
-## 📝 Submitting a Pull Request
+### 📝 Submitting a Pull Request
 
 
 
