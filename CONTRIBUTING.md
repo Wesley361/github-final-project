@@ -17,12 +17,12 @@ We appreciate your interest in contributing to this project! Whether it's bug re
 
 ### 🐞 Reporting Bugs
 Help us improve by identifying bugs! Please include:
--
- A clear description of the bug.
--
- Steps to reproduce the issue.
--
- Relevant screenshots, error logs, or additional context.
+
+*  A clear description of the bug.
+
+*  Steps to reproduce the issue.
+
+*  Relevant screenshots, error logs, or additional context.
 
 
 
@@ -39,22 +39,17 @@ Submit bug reports via [GitHub
 
 Found a bug and know how to fix it? Great! Follow these steps:
 
-1.
- Fork the repository and create a new branch:
-  
-```bash
-  
-git checkout -b fix/[short-description]
+1. Fork the repository and create a new branch.
+
+2. Write your fix and ensure it follows the project’s coding standards.
+
+3. Test your changes thoroughly.
+
+4. Submit a pull request (PR) with a detailed explanation of the fix.
 
 
-2.
-Write your fix and ensure it follows the project’s coding standards.
 
-3.
-Test your changes thoroughly.
-
-4.
-Submit a pull request (PR) with a detailed explanation of the fix.
+---
 
 
 
@@ -79,31 +74,34 @@ Submit documentation updates through a PR with “Docs:” in the title.
 
 
 
+---
+
+
+
 ### 🚀 Suggesting Enhancements
 
 
 
 Have an idea to make the project better? Here’s how to proceed:
 
-1.
-Open a feature request under
+1. Open a feature request under
 GitHub Issues.
 
-2.
-Describe your idea, including:
+2. Describe your idea, including:
 
-•
-The problem it solves.
+• The problem it solves.
 
-•
-How it benefits the project.
+• How it benefits the project.
 
-•
-Any relevant resources or examples.
+• Any relevant resources or examples.
 
 
 
 We’ll review your suggestion and discuss implementation details.
+
+
+
+---
 
 
 
@@ -116,20 +114,24 @@ Have creative input or concepts for the project? Share them! Open an issue or st
 
 
 
+ ---
+
+
+
 ### 📝 Submitting a Pull Request
 
 
 
 
-1.
-Ensure your changes align with the project’s [CODE_OF_CONDUCT.md]Code
+1. Ensure your changes align with the project’s [CODE_OF_CONDUCT.md]Code
  of Conduct and [STYLE_GUIDE.md]Style Guide.
 
-2.
-Write clear, concise commit messages.
+2. Write clear, concise commit messages.
 
-3.
-Include a descriptive PR title and link related issues.
+3. Include a descriptive PR title and link related issues.
+
+
+---
 
 
 
