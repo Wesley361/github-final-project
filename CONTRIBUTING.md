@@ -1,4 +1,4 @@
-# Contributing to github-final-project
+# Contributing to [github-final-project]
 
 
 
@@ -36,15 +36,15 @@ Submit bug reports via [GitHub
 
 
 ### 🔧 Submitting Bug Fixes
+
 Found a bug and know how to fix it? Great! Follow these steps:
+
 1.
  Fork the repository and create a new branch:
   
 ```bash
   
 git checkout -b fix/[short-description]
-
-
 
 
 2.
@@ -58,7 +58,7 @@ Submit a pull request (PR) with a detailed explanation of the fix.
 
 
 
-📚 Improving Documentation
+## 📚 Improving Documentation
 
 
 
@@ -79,7 +79,7 @@ Submit documentation updates through a PR with “Docs:” in the title.
 
 
 
-🚀 Suggesting Enhancements
+## 🚀 Suggesting Enhancements
 
 
 
@@ -107,7 +107,7 @@ We’ll review your suggestion and discuss implementation details.
 
 
 
-💡 Sharing Ideas
+## 💡 Sharing Ideas
 
 
 
@@ -116,7 +116,7 @@ Have creative input or concepts for the project? Share them! Open an issue or st
 
 
 
-📝 Submitting a Pull Request
+## 📝 Submitting a Pull Request
 
 
 
@@ -133,5 +133,5 @@ Include a descriptive PR title and link related issues.
 
 
 
-Thank you for contributing to [Project Name]! Together, we can make it better for
+Thank you for contributing to [github-final-project]! Together, we can make it better for
  everyone.
